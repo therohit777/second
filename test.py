@@ -1,6 +1,7 @@
 print('hello i am pyush')
 fn= input("first name:")
 print('123')
+
 print("Rohit Pandey")
 
 
@@ -15,3 +16,6 @@ if(c==2):
     print("Prime no.")
 else:
     print("Not a prime")
+
+print("I am Rohit Pandey , Let's Party")
+
